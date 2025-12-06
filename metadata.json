@@ -1,0 +1,5 @@
+{
+  "name": "ScholarAI - Your Smart Study Companion",
+  "description": "An intelligent study assistant that explains topics, generates diagrams, creates quizzes, and tracks your learning progress using Google Gemini.",
+  "requestFramePermissions": []
+}
